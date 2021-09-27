@@ -9,4 +9,6 @@
 |_6_| _* Sorting<br> * Renaming<br> * Practice Exercise_ | _26 Sep_ |
 |_7_| _* Finding Missing Data<br> * Filling Missing Data<br> * Practice Exercise_ | _26 Sep_ |
 ||_Final Assignment_|_27 Sep_|
+|--------|--------------------------------------------------------|------|
+|_Links:_| **_• [Practice Quiz](Quiz%20%26%20Assignment/%231_Practice_Quiz.ipynb)<br>• [Graded Quiz](Quiz%20%26%20Assignment/%232_Graded_Quiz.ipynb)<br>• [Final Assignment](Quiz%20%26%20Assignment/%233_Final_Assignment.ipynb)_** | 
 ---
