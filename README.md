@@ -8,5 +8,5 @@
 ---
 | _Python_ | _Pandas_ | _Matplotlib_ |
 | :------: | :------: | :----------: |
-|![](FILES/Certificates/python.png)|![](FILES/Certificates/pandas.png)|![](FILES/Certificates/matplotlib.png)|
+|<img src="FILES/Certificates/python.png" width="600px" height="200px">|<img src="FILES/Certificates/pandas.png" width="600px" height="200px">|<img src="FILES/Certificates/matplotlib.png" width="600px" height="200px">|
 ---
