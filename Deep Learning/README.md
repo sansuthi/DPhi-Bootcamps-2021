@@ -8,3 +8,6 @@
 |_5_| _Digital Image Processing_ |
 |_6_| _Convolutional Neural Networks (CNN)_ | 
 |_7_| _Generative Adversarial Network (GAN)_ |
+---
+![](Certificate.png)
+---
