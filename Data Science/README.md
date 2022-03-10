@@ -1,4 +1,4 @@
-## _Data Science Mini Bootcamp Series : 17 to 27 September '21_
+## _Data Science Mini Bootcamp Series: 17 to 27 September '21_
 ||_Title_|
 |:--:|:--|
 |_**1**_|_**[Introduction to Python Basics for Data Science](FILES/%231%20Python%20Basics)**_|
